@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body,.homeBox,.el-container{
+    height: 100%;
+    width: 100%;
+}
