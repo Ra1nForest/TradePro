@@ -32,7 +32,6 @@ This project demonstrates a complete **Software Development Life Cycle (SDLC)**,
 - **Data Integrity:** Ensures foreign key constraints are handled correctly for both user types.
 
 ## ⚙️ Architecture & Testing
-*(This section highlights my QA/SDET skills)*
 
 - **RESTful API Design:**
   - Follows strict HTTP status code standards (200, 400, 404, 500).
