@@ -9,8 +9,8 @@ This project demonstrates a complete **Software Development Life Cycle (SDLC)**,
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Vue.js, Axios, Element UI (Optional: CSS/SCSS)
-- **Backend:** Java, Spring Boot, MyBatis/JPA
+- **Frontend:** Vue.js, Axios, Element UI
+- **Backend:** Java, Spring Boot, MyBatis
 - **Database:** MySQL
 - **Testing & QA:** Postman (API Testing), JUnit (Unit Testing)
 - **Tools:** Git, Maven
